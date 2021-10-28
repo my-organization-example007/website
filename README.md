@@ -1,2 +1,2 @@
-# my-website from example branch
+# my-website
 This is a test line
